@@ -29,7 +29,7 @@ local c = {
 }
 
 local s = {
-    v0rtexd = {Width = 311, Height = 311},
+    v0rtexd = {Width = 530, Height = 450},
     Minv0rtexd = {Width = 500, Height = 300},
     Maxv0rtexd = {Width = 1200, Height = 800},
     Toggle = {Width = 38, Height = 21, Circle = 13},
